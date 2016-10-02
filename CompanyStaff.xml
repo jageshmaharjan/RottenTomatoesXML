@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Company>
+    <staff id="1">
+        <firstname>jugs</firstname>
+        <lastname>ma</lastname>
+        <nickname>shaggy</nickname>
+        <address>Beijing</address>
+        <telephones>
+            <tel>+86-188131315qq</tel>
+            <tel>+977-98415617@@</tel>
+        </telephones>
+    </staff>
+</Company>

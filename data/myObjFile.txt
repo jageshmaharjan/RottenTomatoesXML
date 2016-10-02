@@ -1,0 +1,2 @@
+hisname,dadname,111,20,male,2014,ktm,bag,ktm,baag,nep,977
+hername,herdadname,101,18,female,2015,bkt,bag,bkt,baag,nep,977
